@@ -82,7 +82,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "typst-vote-tools"
+name = "typst-comitia"
 version = "0.1.0"
 dependencies = [
  "serde",

@@ -1,4 +1,4 @@
-#let p = plugin("./typst_vote_tools.wasm")
+#let p = plugin("./comitia.wasm")
 
 // Generates ordinal indicators from numbers
 #let xth(n) = {
