@@ -1,0 +1,18 @@
+[package]
+name = "vote-tools"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Tobias Heidler"]
+license = "MIT"
+description = "Provide voting mechanisms and tie-breaking methods with tools for detailed analysis and reporting."
+
+homepage = "https://github.com/pteridin/typst-vote-tools"
+repository = "https://github.com/pteridin/typst-vote-tools"
+keywords = [
+    "voting",
+    "election",
+    "stv",
+    "plurality",
+    "democracy"
+]
+exclude = ["examples", "example.typ"]
