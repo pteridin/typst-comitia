@@ -1,4 +1,4 @@
-# typst-voting
+# comitia
 
 Use different voting mechanisms in your document. Powered by Rust WASM.
 
@@ -43,7 +43,7 @@ Or you can have a more sophisticated report on each step performed:
 ### Methods
 
 - Plurality
-- SVT (Single candidate: Instant-Runoff Voting)
+- STV (Single Transferable Vote - for one candidate: Instant-Runoff Voting)
 
 ### Tie Breakers
 
